@@ -1,0 +1,1 @@
+This  repo contain scripts for shell redirections
